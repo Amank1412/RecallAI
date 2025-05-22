@@ -1,7 +1,7 @@
 
 import { Button } from "@/components/ui/button";
 import { Link } from "react-router-dom";
-import { Check, BookText, Brain, Layout, Database, Lock } from "lucide-react";
+import { Check, BookText, Brain, Layout, Database, Lock, Code } from "lucide-react";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 
