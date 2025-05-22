@@ -19,7 +19,7 @@ const Features = () => {
             </span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-700 max-w-3xl mx-auto mb-8">
-            Discover how RecallAI transforms your learning and knowledge management experience.
+            Remember Smarter, Learn Faster, Stay Ahead with RecallAI.
           </p>
         </section>
         
